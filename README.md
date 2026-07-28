@@ -7,7 +7,7 @@ This project presents an interactive Microsoft Excel dashboard built to analyse 
 
 ## Dashboard Preview
 
-![Dashboard](Final Dashboard SS.png)
+Final Dashboard SS.png
 
 ---
 
