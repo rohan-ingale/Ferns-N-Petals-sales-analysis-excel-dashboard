@@ -7,7 +7,7 @@ This project presents an interactive Microsoft Excel dashboard built to analyse 
 
 ## Dashboard Preview
 
-Final Dashboard SS.png
+https://github.com/rohan-ingale/Ferns-N-Petals-sales-analysis-excel-dashboard/blob/dad536921673213ee16bd1ec30ca442ebd96f6f6/Final%20Dashboard%20SS.png
 
 ---
 
